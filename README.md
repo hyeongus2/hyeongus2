@@ -6,9 +6,10 @@ AI 모델의 실험부터 소프트웨어와 로봇의 실제 동작까지 연�
 
 | 프로젝트 | 구현과 역할 | 자료 |
 |---|---|---|
-| 언어 지시 기반 로봇 조작 | 한 학기 동안 인식·계획·이동·조작을 통합하고 언어 지시부터 이어지는 종합 시연 수행. ROS 기반 패키지와 실습 구현 | 로봇·제어·시스템 통합 |
-| Raspberry Pi 음성·TinyML | 음성 스펙트럼·Mel 분석, 개인 wake-word 모델 학습·양자화·추론, 별도 파형 모델 실험 | 신호처리·경량 모델·실측 비교 |
-| RISC-V CPU/cache·시스템 설계 | CPU·pipeline·cache와 Verilog 설계, C/C++ 자료구조·경로 탐색 구현 및 테스트 | 학업 구현·설계·검증 |
+| 언어 지시 기반 로봇 조작 | 한 학기 동안 인식·계획·이동·조작을 통합하고 언어 지시부터 이어지는 종합 시연 수행. ROS 기반 패키지와 실습 구현 | [코드·실행법](https://github.com/hyeongus2/language-guided-robot-manipulation) |
+| Raspberry Pi 음성·TinyML | 음성 스펙트럼·Mel 분석, 개인 wake-word 모델 학습·양자화·추론, 별도 파형 모델 실험 | [코드·실험](https://github.com/hyeongus2/raspberry-pi-audio-ml) |
+| RISC-V CPU·cache·Verilog 설계 | CPU·pipeline·cache와 디지털 회로의 HDL 구현·검증 | 학업 설계·검증 |
+| C shell·자료구조·경로 탐색 | 명령 실행·프로세스 제어, BST/RBT·Dijkstra/A* 직접 구현과 테스트 | 과목별 개인 구현 |
 | Research Thread Agent | 4인 팀의 연구 탐색 앱. 공동 maintainer로 빠른 검색·학습 경로·피드·MCP 기능 구현과 팀 통합에 참여 | [코드](https://github.com/hyeongus2/research-thread-agent) |
 | Task Vector Prediction | KAIRI 연구 인턴에서 태스크 벡터 예측을 위한 학습·분석 코드와 실험 구성 | [코드](https://github.com/hyeongus2/task-vector-prediction) |
 | AdaHiP | entropy 기반 sparse attention 계산 예산 조절 연구 프로토타입 | [코드와 검증 상태](https://github.com/hyeongus2/adahip-attention) |
@@ -18,9 +19,13 @@ AI 모델의 실험부터 소프트웨어와 로봇의 실제 동작까지 연�
 
 - 언어 지시를 계획·이동·조작으로 연결한 한 학기 로봇 프로젝트와 종합 시연
 - Raspberry Pi 음성 처리, wake word 학습·추론, TinyML 파형 실험
-- 의료 QA 모델 학습·증강·soft prompt 실험, 머신러닝·빅데이터 알고리즘 구현
-- C 시스템 프로그래밍, 자료구조·경로 탐색, RISC-V CPU/cache, Verilog와 Arduino 설계
-- DAVIAN 기초 스터디 및 Advanced RAG 발표
+- [의료 QA 모델·평가 실험](https://github.com/hyeongus2/emrqa-experiments), [머신러닝·빅데이터 구현](https://github.com/hyeongus2/ml-data-labs)
+- C shell·프로세스 제어, 자료구조·경로 탐색, RISC-V CPU/cache·Verilog 및 [Arduino·회로·MATLAB 실험](https://github.com/hyeongus2/engineering-labs)
+- [DAVIAN ML 기초·최적화 발표](docs/talks/DAVIAN-ML-Basics-Optimization-2026-01-15.pptx) 및 [Advanced RAG 발표](docs/talks/DAVIAN-Advanced-RAG.pdf)
+
+## 이전 AI 프로젝트 경험
+
+2024 공군 해커톤 AI 프로그램 최종 14위. 사전평가 알고리즘 2문제를 모두 해결하고, 서울시 연계 AI 과제의 모델 개발과 발표 내용 구성을 전담해 직접 발표했습니다.
 
 ## 수상·연구 참여·발표
 
