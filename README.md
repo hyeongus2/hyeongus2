@@ -21,6 +21,7 @@ AI 모델의 실험부터 소프트웨어와 로봇의 실제 동작까지 연�
 - Raspberry Pi 음성 처리, wake word 학습·추론, TinyML 파형 실험
 - [의료 QA 모델·평가 실험](https://github.com/hyeongus2/emrqa-experiments), [머신러닝·빅데이터 구현](https://github.com/hyeongus2/ml-data-labs)
 - C shell·프로세스 제어, 자료구조·경로 탐색, RISC-V CPU/cache·Verilog 및 [Arduino·회로·MATLAB 실험](https://github.com/hyeongus2/engineering-labs) · [Arduino 시연](https://drive.google.com/file/d/11UY_fbOLHmjJ5oGViqylE3oVhj3N_lSz/view)
+- DCASE 이상음 탐지 캡스톤: 팀의 CNN14+KNN·Noisy-ArcMix 모델로 pump 데이터 증강 비교 실험과 결과 분석에 참여했습니다. 두 모델 모두 당시 실험에서 증강 후 ROC AUC가 낮아진 결과를 확인했습니다.
 - [DAVIAN ML 기초·최적화 발표](docs/talks/DAVIAN-ML-Basics-Optimization-2026-01-15.pptx) 및 [Advanced RAG 발표](docs/talks/DAVIAN-Advanced-RAG.pdf)
 
 ## 이전 AI 프로젝트 경험
@@ -30,7 +31,7 @@ AI 모델의 실험부터 소프트웨어와 로봇의 실제 동작까지 연�
 ## 수상·연구 참여·발표
 
 - [SCPC 2026 AI Challenge 3등상](docs/certificates/SCPC2026-third-prize.pdf), 2026.08.28
-- [KAIST Open Source × AI 동상, 5위](docs/certificates/KAIST-OpenSource-AI-award.pdf), 2026.06.04
+- [KAIST Open Source × AI 5위(Bronze Prize)](docs/certificates/KAIST-OpenSource-AI-award.pdf), 2026.06.04
 - [오픈소스 기여 수료](docs/certificates/KAIST-OpenSource-AI-completion.pdf)
 - [KAIRI MLI Lab 연구 인턴 참여](docs/certificates/KAIRI-internship.pdf), 2025.07–2025.10
 - [DAVIAN Advanced RAG 발표](docs/talks/DAVIAN-Advanced-RAG.pdf), 2026.01.27
