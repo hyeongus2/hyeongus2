@@ -6,11 +6,11 @@ AI 모델의 실험부터 소프트웨어와 로봇의 실제 동작까지 연�
 
 | 프로젝트 | 구현과 역할 | 자료 |
 |---|---|---|
-| 언어 지시 기반 로봇 조작 | 한 학기 동안 인식·계획·이동·조작을 통합하고 언어 지시부터 이어지는 종합 시연 수행. ROS 기반 패키지와 실습 구현 | [코드·실행법](https://github.com/hyeongus2/language-guided-robot-manipulation) |
+| 언어 지시 기반 로봇 조작 | 한 학기 동안 인식·계획·이동·조작을 통합하고 언어 지시부터 이어지는 종합 시연 수행. ROS 기반 패키지와 실습 구현 | [코드·실행법](https://github.com/hyeongus2/language-guided-robot-manipulation) · [ArUco 실습](https://drive.google.com/file/d/1jFSeSVtTVsvS1iWjP8NCCWp-PvL8udkh/view) · [RL 실습](https://drive.google.com/file/d/1RbyEvCyg_KMFjWTKeGe2Cddf7d9G8XIx/view) |
 | Raspberry Pi 음성·TinyML | 음성 스펙트럼·Mel 분석, 개인 wake-word 모델 학습·양자화·추론, 별도 파형 모델 실험 | [코드·실험](https://github.com/hyeongus2/raspberry-pi-audio-ml) |
-| RISC-V CPU·cache·Verilog 설계 | CPU·pipeline·cache와 디지털 회로의 HDL 구현·검증 | 학업 설계·검증 |
-| C shell·자료구조·경로 탐색 | 명령 실행·프로세스 제어, BST/RBT·Dijkstra/A* 직접 구현과 테스트 | 과목별 개인 구현 |
-| Research Thread Agent | 4인 팀의 연구 탐색 앱. 공동 maintainer로 빠른 검색·학습 경로·피드·MCP 기능 구현과 팀 통합에 참여 | [코드](https://github.com/hyeongus2/research-thread-agent) |
+| RISC-V CPU·cache·Verilog 설계 | CPU·pipeline·cache와 디지털 회로의 HDL 구현·검증 | [코드·설계·검증](https://github.com/hyeongus2/systems-algorithms-labs) |
+| C shell·자료구조·경로 탐색 | 명령 실행·프로세스 제어, BST/RBT·Dijkstra/A* 직접 구현과 테스트 | [SW 도구 실습 코드](https://github.com/hyeongus2/systems-algorithms-labs/tree/main/software-tools) · [자료구조·경로 탐색 경험](https://github.com/hyeongus2/systems-algorithms-labs/blob/main/docs/algorithms.md) |
+| Research Thread Agent | 4인 팀의 연구 탐색 앱. 공동 maintainer로 빠른 검색·학습 경로·피드·MCP 기능 구현과 팀 통합에 참여 | [코드](https://github.com/hyeongus2/research-thread-agent) · [시연](https://drive.google.com/file/d/1TFFgb1VDcJbT204dVoVkLG_PdA8YUoxc/view) · [발표](docs/talks/RTA-Team-Presentation-2026-06-04.pptx) |
 | Task Vector Prediction | KAIRI 연구 인턴에서 태스크 벡터 예측을 위한 학습·분석 코드와 실험 구성 | [코드](https://github.com/hyeongus2/task-vector-prediction) |
 | AdaHiP | entropy 기반 sparse attention 계산 예산 조절 연구 프로토타입 | [코드와 검증 상태](https://github.com/hyeongus2/adahip-attention) |
 | ShotFlow | 촬영 준비의 재사용·정정·중단 후 복구를 관리하는 상태 기반 Android 시뮬레이션. SCPC 2026 AI Challenge 3등상 | [본선 발표](docs/talks/SCPC2026-ShotFlow.pdf) |
@@ -20,12 +20,12 @@ AI 모델의 실험부터 소프트웨어와 로봇의 실제 동작까지 연�
 - 언어 지시를 계획·이동·조작으로 연결한 한 학기 로봇 프로젝트와 종합 시연
 - Raspberry Pi 음성 처리, wake word 학습·추론, TinyML 파형 실험
 - [의료 QA 모델·평가 실험](https://github.com/hyeongus2/emrqa-experiments), [머신러닝·빅데이터 구현](https://github.com/hyeongus2/ml-data-labs)
-- C shell·프로세스 제어, 자료구조·경로 탐색, RISC-V CPU/cache·Verilog 및 [Arduino·회로·MATLAB 실험](https://github.com/hyeongus2/engineering-labs)
+- C shell·프로세스 제어, 자료구조·경로 탐색, RISC-V CPU/cache·Verilog 및 [Arduino·회로·MATLAB 실험](https://github.com/hyeongus2/engineering-labs) · [Arduino 시연](https://drive.google.com/file/d/11UY_fbOLHmjJ5oGViqylE3oVhj3N_lSz/view)
 - [DAVIAN ML 기초·최적화 발표](docs/talks/DAVIAN-ML-Basics-Optimization-2026-01-15.pptx) 및 [Advanced RAG 발표](docs/talks/DAVIAN-Advanced-RAG.pdf)
 
 ## 이전 AI 프로젝트 경험
 
-2024 공군 해커톤 AI 프로그램 최종 14위. 사전평가 알고리즘 2문제를 모두 해결하고, 서울시 연계 AI 과제의 모델 개발과 발표 내용 구성을 전담해 직접 발표했습니다.
+2024 공군 해커톤 AI 프로그램 최종 14위. 사전평가 알고리즘 2문제를 모두 해결하고, 서울시 하수관 CCTV 이미지의 결함 탐지 과제에서 모델 개발과 발표 내용 구성을 전담해 직접 발표했습니다.
 
 ## 수상·연구 참여·발표
 
