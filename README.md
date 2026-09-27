@@ -25,7 +25,7 @@ AI 모델 실험과 소프트웨어·로봇 구현을 공부하고 있습니다.
 
 ## 연구·학업 경험
 
-- **Unix 셸 · EE209, 2019:** 명령 해석, 프로세스 실행, 파이프와 입출력 재지정 구현.
+- **Unix 셸 · 전자공학을 위한 프로그래밍 구조(EE209), 2019:** 명령 해석, 프로세스 실행, 파이프와 입출력 재지정 구현.
 - **자료구조·알고리즘, 2020:** BST/RBT와 Dijkstra/A* 구현 및 테스트. [구현 내용](https://github.com/hyeongus2/systems-algorithms-labs/blob/main/docs/algorithms.md)
 - **ML·데이터 처리:** [회귀·군집·딥러닝·빅데이터 구현](https://github.com/hyeongus2/ml-data-labs), [EMRQA 의료 질의응답 실험](https://github.com/hyeongus2/emrqa-experiments).
 - **AdaHiP:** 엔트로피를 이용한 sparse attention 계산 예산 조절 연구. [코드](https://github.com/hyeongus2/adahip-attention)
