@@ -25,9 +25,9 @@
 
 ## 연구·학업 경험
 
-- **Unix 셸 · 전자공학을 위한 프로그래밍 구조(EE209), 2019:** 명령 해석, 프로세스 실행, 파이프와 입출력 재지정 구현.
+- **Unix 셸 · 전자공학을 위한 프로그래밍 구조(EE209), 2019:** 명령 해석, 프로세스 실행, 파이프와 입출력 재지정 구현. [구현 구조](https://github.com/hyeongus2/systems-algorithms-labs/blob/main/docs/c-unix.md)
 - **자료구조·알고리즘, 2020:** BST/RBT와 Dijkstra/A* 구현 및 테스트. [구현 내용](https://github.com/hyeongus2/systems-algorithms-labs/blob/main/docs/algorithms.md)
-- **ML·데이터 처리:** [회귀·군집·딥러닝·빅데이터 구현](https://github.com/hyeongus2/ml-data-labs), [EMRQA 의료 질의응답 실험](https://github.com/hyeongus2/emrqa-experiments).
+- **ML·데이터 처리:** [회귀·군집·딥러닝·빅데이터 구현](https://github.com/hyeongus2/ml-data-labs) · [과목별 보고서](docs/reports/README.md), [EMRQA 의료 질의응답 실험](https://github.com/hyeongus2/emrqa-experiments).
 - **AdaHiP:** 엔트로피를 이용한 sparse attention 계산 예산 조절 연구. [코드](https://github.com/hyeongus2/adahip-attention)
 - **DCASE 이상음 탐지:** CNN14+KNN·Noisy-ArcMix를 이용한 pump 데이터 증강 비교 실험과 결과 분석.
 - **공학 실험:** [Arduino·회로 측정·MATLAB 압축/채널 부호화](https://github.com/hyeongus2/engineering-labs) · [Arduino 시연](https://drive.google.com/file/d/11UY_fbOLHmjJ5oGViqylE3oVhj3N_lSz/view)
@@ -36,7 +36,7 @@
 
 - **KAIST 학사과정 우수 등급(CUM LAUDE)** · 2026.08.30. [상장](docs/certificates/KAIST-Cum-Laude-2026.pdf)
 - **SCPC 2026 AI Challenge 3등상** · 개인전 · 2026.08.28. [상장](docs/certificates/SCPC2026-third-prize.pdf)
-- **KAIST Open Source × AI 5위(Bronze Prize)** · 4인 팀 코딩잉어단 · 2026.06.04. [수상 증빙](docs/certificates/KAIST-OpenSource-AI-award.pdf) · [기여 수료](docs/certificates/KAIST-OpenSource-AI-completion.pdf)
+- **KAIST Open Source × AI 5위(Bronze Prize)** · 4인 팀 코딩잉어단 · 2026.06.04. [수상 증빙](docs/certificates/KAIST-OpenSource-AI-award.pdf)
 - **KAIRI MLI Lab 연구 인턴** · 2025.07–2025.10. [참여확인서](docs/certificates/KAIRI-internship.pdf)
 - **2024 공군 해커톤 AI 프로그램 최종 14위.** 사전평가 알고리즘 2문제를 모두 해결하고, 서울시 하수관 CCTV 이미지의 결함 탐지 과제에서 모델 개발과 발표 내용 구성을 전담해 직접 발표했습니다.
 - **DAVIAN 스터디 발표:** [ML basics and optimization](https://drive.google.com/file/d/1ZTFMTkv5Y76HnsUXza6TCtlMtI51AG7O/view), 2026.01.15 · [Advanced RAG · 22쪽](https://drive.google.com/file/d/17qdYE9e-6-xaxiX4dnr62rwSx77kkR9c/view), 2026.01.27.
