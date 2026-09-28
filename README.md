@@ -12,7 +12,7 @@
 | Raspberry Pi 음성·TinyML | 직접 수집한 음성으로 호출어 모델 학습·TFLite 변환·Pi 추론. 음성 분석과 파형 모델의 크기·지연 비교 | [코드·실험](https://github.com/hyeongus2/raspberry-pi-audio-ml) |
 | RISC-V CPU·디지털 회로 | Verilog로 ALU, CPU, pipeline, cache를 구현하고 디지털 회로·FSM 설계 | [코드·설계](https://github.com/hyeongus2/systems-algorithms-labs) |
 | Task Vector Prediction | 초기 미세조정 궤적으로 후반의 task vector를 예측하는 KAIRI 연구. 학습·분석 코드와 실험 구성 | [연구 코드](https://github.com/hyeongus2/task-vector-prediction) |
-| Research Thread Agent | 논문·모델·코드 탐색 앱. 4인 팀의 공동 maintainer로 검색·학습 경로·피드·MCP 기능과 팀 통합에 참여 | [코드](https://github.com/hyeongus2/research-thread-agent) · [시연](https://drive.google.com/file/d/1TFFgb1VDcJbT204dVoVkLG_PdA8YUoxc/view) · [발표](docs/talks/RTA-Team-Presentation-2026-06-04.pdf) |
+| Research Thread Agent | 논문·모델·코드 탐색 앱. 4인 팀의 공동 maintainer로 검색·학습 경로·피드·MCP 기능과 팀 통합에 참여 | [코드](https://github.com/hyeongus2/research-thread-agent) · [시연](https://drive.google.com/file/d/1TFFgb1VDcJbT204dVoVkLG_PdA8YUoxc/view) · [발표](https://drive.google.com/file/d/1rnlRtRcDcxSq5b78C56JX_pKCyjwn8p3/view) |
 | ShotFlow | 촬영 준비의 재사용·정정·중단 후 복구를 구현한 Android 시뮬레이션. SCPC 2026 AI Challenge 3등상 | [본선 발표](docs/talks/SCPC2026-ShotFlow.pdf) |
 
 ## 진행 중
@@ -39,4 +39,4 @@
 - **KAIST Open Source × AI 5위(Bronze Prize)** · 4인 팀 코딩잉어단 · 2026.06.04. [수상 증빙](docs/certificates/KAIST-OpenSource-AI-award.pdf) · [기여 수료](docs/certificates/KAIST-OpenSource-AI-completion.pdf)
 - **KAIRI MLI Lab 연구 인턴** · 2025.07–2025.10. [참여확인서](docs/certificates/KAIRI-internship.pdf)
 - **2024 공군 해커톤 AI 프로그램 최종 14위.** 사전평가 알고리즘 2문제를 모두 해결하고, 서울시 하수관 CCTV 이미지의 결함 탐지 과제에서 모델 개발과 발표 내용 구성을 전담해 직접 발표했습니다.
-- **DAVIAN 스터디 발표:** [ML basics and optimization](docs/talks/DAVIAN-ML-Basics-Optimization-2026-01-15.pdf), 2026.01.15 · [Advanced RAG · 22쪽](docs/talks/DAVIAN-Advanced-RAG.pdf), 2026.01.27.
+- **DAVIAN 스터디 발표:** [ML basics and optimization](https://drive.google.com/file/d/1ZTFMTkv5Y76HnsUXza6TCtlMtI51AG7O/view), 2026.01.15 · [Advanced RAG · 22쪽](https://drive.google.com/file/d/17qdYE9e-6-xaxiX4dnr62rwSx77kkR9c/view), 2026.01.27.
