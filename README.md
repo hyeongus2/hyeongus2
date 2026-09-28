@@ -13,7 +13,7 @@
 | RISC-V CPU·디지털 회로 | Verilog로 ALU, CPU, pipeline, cache를 구현하고 디지털 회로·FSM 설계 | [코드·설계](https://github.com/hyeongus2/systems-algorithms-labs) |
 | Task Vector Prediction | 초기 미세조정 궤적으로 후반의 task vector를 예측하는 KAIRI 연구. 학습·분석 코드와 실험 구성 | [연구 코드](https://github.com/hyeongus2/task-vector-prediction) |
 | Research Thread Agent | 논문·모델·코드 탐색 앱. 4인 팀의 공동 maintainer로 검색·학습 경로·피드·MCP 기능과 팀 통합에 참여 | [코드](https://github.com/hyeongus2/research-thread-agent) · [시연](https://drive.google.com/file/d/1TFFgb1VDcJbT204dVoVkLG_PdA8YUoxc/view) · [발표](https://drive.google.com/file/d/1rnlRtRcDcxSq5b78C56JX_pKCyjwn8p3/view) |
-| ShotFlow | 촬영 준비의 재사용·정정·중단 후 복구를 구현한 Android 시뮬레이션. SCPC 2026 AI Challenge 3등상 | [본선 발표](docs/talks/SCPC2026-ShotFlow.pdf) |
+| ShotFlow | 촬영 준비의 재사용·정정·중단 후 복구를 구현한 Android 시뮬레이션. SCPC 2026 AI Challenge 3등상 | [본선 발표 · Drive](https://drive.google.com/file/d/1Co7qcFOtIZAo4XWs9AalQFEfgqphJTHN/view) |
 
 ## 진행 중
 
@@ -23,13 +23,19 @@
 - **BioRoute 협업 개발:** 엔진의 요구사항과 입력·출력, 테스트 및 검증 기준을 정리하는 설계 단계입니다.
 - **빅콘테스트:** 분석 주제를 비교하고 Python 파일럿으로 접근 방법을 검토하고 있습니다.
 
+### 대회 참가 준비·예정
+
+- **SK하이닉스 AI 해커톤:** 지원서와 프로젝트 포트폴리오를 준비하고 있습니다.
+- **AI·디지털 기반 사회문제 해결 챌린지:** 해결할 사회문제와 아이디어 후보를 검토하고 있습니다.
+- **고용24 국민참여 AI 고용서비스 발굴 온라인 해커톤:** 참가 예정입니다.
+
 ## 연구·학업 경험
 
 - **Unix 셸 · 전자공학을 위한 프로그래밍 구조(EE209), 2019:** 명령 해석, 프로세스 실행, 파이프와 입출력 재지정 구현. [구현 구조](https://github.com/hyeongus2/systems-algorithms-labs/blob/main/docs/c-unix.md)
 - **자료구조·알고리즘, 2020:** BST/RBT와 Dijkstra/A* 구현 및 테스트. [구현 내용](https://github.com/hyeongus2/systems-algorithms-labs/blob/main/docs/algorithms.md)
 - **ML·데이터 처리:** [회귀·군집·딥러닝·빅데이터 구현](https://github.com/hyeongus2/ml-data-labs) · [과목별 보고서](docs/reports/README.md), [EMRQA 의료 질의응답 실험](https://github.com/hyeongus2/emrqa-experiments).
 - **AdaHiP:** 엔트로피를 이용한 sparse attention 계산 예산 조절 연구. [코드](https://github.com/hyeongus2/adahip-attention)
-- **DCASE 이상음 탐지:** CNN14+KNN·Noisy-ArcMix를 이용한 pump 데이터 증강 비교 실험과 결과 분석.
+- **DCASE 이상음 탐지:** CNN14+KNN·Noisy-ArcMix를 이용한 pump 데이터 증강 비교 실험과 결과 분석. [실험 설명·결과 그래프](docs/projects/dcase-pump.md)
 - **공학 실험:** [Arduino·회로 측정·MATLAB 압축/채널 부호화](https://github.com/hyeongus2/engineering-labs) · [Arduino 시연](https://drive.google.com/file/d/11UY_fbOLHmjJ5oGViqylE3oVhj3N_lSz/view)
 
 ## 수상·발표·연구 참여
